@@ -1,5 +1,5 @@
 # Obatku: A Symptom-Based Drug Recommendation Website Using a Pretrained Model
-A program designed to diagnose our symptoms and drug recommendation
+A program designed to diagnose our symptoms and drug recommendation created for Computational Biology Final Project
 
 Created by:  
 ➜ Chen Wen Qi  
